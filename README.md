@@ -1,4 +1,4 @@
-![logo](https://github.com/Deepak2004Bisht/Deepak2004Bisht/blob/main/DEEPAKBISHT.png)
+![logo](https://github.com/Deepak2004Bisht/Deepak2004Bisht/blob/main/newbanner.png)
 <h1 align="center">Hi 👋, I'm Deepak Bisht</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
