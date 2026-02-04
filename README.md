@@ -1,22 +1,72 @@
-![logo](https://github.com/Deepak2004Bisht/Deepak2004Bisht/blob/main/newbanner.png)
-<h1 align="center">Hi 👋, I'm Deepak Bisht</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- Top Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Deepak%20Bisht&reversal=false&textBg=false&descAlign=49&descAlignY=50" />
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Python+|+SQL+|+Power+BI;Turning+Data+Into+Insights&center=true&width=500&height=45">
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-bisht" /> </p>
+---
 
-- 📫 How to reach me **deepakbisht2777@gamil.com**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+I am a **Data Analyst** who enjoys transforming raw data into meaningful insights that drive smarter business decisions.
+
+- 📊 Strong analytical & problem-solving skills  
+- 🧠 Passionate about data storytelling  
+- 📈 Experience with dashboards & reports  
+- 🎯 Focused on business impact, not just numbers  
+
+---
+<img align="right" alt="data-animation" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+## 🛠️ Skills & Tools
+
+### 📌 Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📌 Visualization
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 📌 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 💼 What I Do
+
+- Analyze structured and unstructured data to uncover insights  
+- Build dashboards and reports for data-driven decision-making  
+- Clean, transform, and validate data for accuracy and consistency  
+- Translate business questions into analytical solutions
+  
+---
+
+## 🎯 How I Add Value
+
+- 📊 Turn raw data into clear, actionable insights  
+- 📈 Help stakeholders track KPIs and performance  
+- 🧠 Support strategic decisions using data-backed evidence  
+- ⚙️ Improve reporting efficiency through automation
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:deepakbisht2777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-bisht&show_icons=true&locale=en&layout=compact" alt="deepak-bisht" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-bisht&show_icons=true&locale=en" alt="deepak-bisht" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-bisht&" alt="deepak-bisht" /></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer"/>
