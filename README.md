@@ -69,4 +69,4 @@ I am a **Data Analyst** who enjoys transforming raw data into meaningful insight
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
