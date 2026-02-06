@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Deepak%20Bisht&reversal=false&textBg=false&descAlign=49&descAlignY=50" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Python+|+SQL+|+Power+BI;Turning+Data+Into+Insights&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst+|+MIS+Executive;Python+|+SQL+|+Power+BI+|+Excel;Turning+Data+Into+Insights&center=true&width=500&height=45">
 </h3>
 
 ---
